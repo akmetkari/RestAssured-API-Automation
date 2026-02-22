@@ -36,4 +36,3 @@ test-output/
 *.log
 
 # Sensitive information (API keys, tokens, etc.)
-config.properties
