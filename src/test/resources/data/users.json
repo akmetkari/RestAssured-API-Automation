@@ -1,0 +1,4 @@
+[
+  {"name": "Learner1", "emailBase": "learner1", "gender": "male", "status": "active"},
+  {"name": "Learner2", "emailBase": "learner2", "gender": "female", "status": "inactive"}
+]
